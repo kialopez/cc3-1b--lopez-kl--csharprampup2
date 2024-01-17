@@ -42,7 +42,7 @@ class csharprampup2
         Console.WriteLine($"Average Age of the students is: {averageAge:F2}");
         Console.WriteLine("============================================");
 
-        // Part 2: Concise Fantasy Story
+        // Part 2: STORY
         // Hero and Characters
         string hero = "Kurt";
         string kontrabida = "Malik";
@@ -81,7 +81,7 @@ class csharprampup2
         // PART 2
 
 
-        // Number Pattern
+        // TRIANGLE
         Console.Write("Enter a positive number: ");
         int userInput = Convert.ToInt32(Console.ReadLine());
 
@@ -101,7 +101,7 @@ class csharprampup2
                 Console.WriteLine();
             }
         }
-        // Get user input
+        // SUM SUM SUM
         Console.Write("Enter a positive number: ");
         int userNumber = Convert.ToInt32(Console.ReadLine());
 
@@ -131,7 +131,7 @@ class csharprampup2
             Console.WriteLine();
             Console.WriteLine($"Output: {sum}");
         }
-        // Get user input
+        // INVERSE TRIANGLE
         Console.Write("Enter a positive number: ");
         int userInp = Convert.ToInt32(Console.ReadLine());
 
